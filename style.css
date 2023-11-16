@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+}
+
+h1 {
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive, Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.cover, .description {
+    text-align: center;
+}
+
+.description.text {
+    font-size: 20px;
+}
